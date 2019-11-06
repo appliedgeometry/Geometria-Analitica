@@ -2,7 +2,6 @@
 
 ![](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/Marca.png)
 
-Instrucciones: Abrir en modo Sitio de Pruebas para poder editar.
 
 [1 Introducción a Python](https://colab.research.google.com/drive/13txfwm39hti1QQ2hRMBJKoEw-heIG_Js)
 
