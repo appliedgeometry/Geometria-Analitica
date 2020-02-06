@@ -25,4 +25,6 @@
 
 [9 Álgebra Matricial Básica](https://colab.research.google.com/drive/12maN8IoXeXiEipMJFKDDnUWzsRqPkpe2)
 
+[10 Cónicas](https://colab.research.google.com/drive/1dgEGHz_eqYXggqgHFXq7DGulcoZnuBME)
+
 [Series de Fourier](https://colab.research.google.com/drive/1z5jHemtcyYvHZ-9FIvUPDQYx5kD5_Y69)
