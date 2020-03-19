@@ -28,3 +28,9 @@
 [10 Cónicas](https://colab.research.google.com/drive/1dgEGHz_eqYXggqgHFXq7DGulcoZnuBME)
 
 [Series de Fourier](https://colab.research.google.com/drive/1z5jHemtcyYvHZ-9FIvUPDQYx5kD5_Y69)
+
+[11 Cónicas en coordenadas polares](https://colab.research.google.com/drive/1X4gxsDuvg30YU6T2ZV-hBSmZykGXSbjE)
+
+[12 Superficies cuádricas](https://colab.research.google.com/drive/1etOYlGVUx5VDi58uC_IbI3-namBAwR_p)
+
+[13 Matriz inversa y transformaciones lineales](https://colab.research.google.com/drive/17GM0OBnr1ZCFmXG2bhOyB29-nQD6FFet)
