@@ -1,4 +1,4 @@
-# Geometría Analítica 1
+# Geometría Analítica 1 - 2
 
 ![](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/Marca.png)
 
