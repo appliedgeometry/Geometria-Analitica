@@ -1,4 +1,4 @@
-# Geometría Analítica 1 - 2
+# Geometría Analítica con Python
 
 ![](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/Marca.png)
 
