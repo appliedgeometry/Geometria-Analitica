@@ -34,7 +34,11 @@
 
 [13 Matriz inversa y transformaciones lineales](https://colab.research.google.com/drive/17GM0OBnr1ZCFmXG2bhOyB29-nQD6FFet)
 
-**Autores**
-@HaydeePeruyero
-@jcrpanta
-@psuarezserrato
+
+___
+
+## **Autores**
+
+ * **Haydeé Peruyero** - [@HaydeePeruyero](https://github.com/HaydeePeruyero)
+ * **José C. Ruíz Pantaleón** - [@jcrpanta](https://github.com/jcrpanta)
+ * **Pablo Suárez Serrato** - [@psuarezserrato](https://github.com/psuarezserrato)
