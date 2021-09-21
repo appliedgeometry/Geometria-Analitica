@@ -2,7 +2,6 @@
 
 ![](https://github.com/HaydeePeruyero/Geometria-Analitica-1/blob/master/logos.png)
 
-
 [1 Introducción a Python](https://colab.research.google.com/drive/13txfwm39hti1QQ2hRMBJKoEw-heIG_Js)
 
 [2 Importar Módulos](https://colab.research.google.com/drive/1VxB1rFGWGKzgGLCuIvTIw21DzzFtToQf)
@@ -34,3 +33,8 @@
 [12 Superficies cuádricas](https://colab.research.google.com/drive/1etOYlGVUx5VDi58uC_IbI3-namBAwR_p)
 
 [13 Matriz inversa y transformaciones lineales](https://colab.research.google.com/drive/17GM0OBnr1ZCFmXG2bhOyB29-nQD6FFet)
+
+**Autores**
+@HaydeePeruyero
+@jcrpanta
+@psuarezserrato
